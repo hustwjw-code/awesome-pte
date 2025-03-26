@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[中文版](./README-zh.md)
+[中文版](./README.md)
 
 A collection of awesome things regarding PTE (Pearson Test of English).
 
