@@ -2,32 +2,34 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collection of awesome things regarding PTE (Pearson Test of English).
+[English Version](./README.md)
 
-## Official Resources
+关于 PTE（培生英语考试）的精选资源集合。
 
-- [PTE Official Website](https://www.pearsonpte.com/) - ![academic] ![core] You can book a test, learn about its format, and understand how it is scored.
+## 官方资源
 
-## PTE Practice Websites
+- [PTE 官方网站](https://www.pearsonpte.com/) - ![academic] ![core] 您可以在此预约考试、了解考试格式以及评分方式。
+
+## PTE 练习网站
 
 - [YNWAC PTE-CORE](https://ynwac.com/) - ![free] ![core]
 - [Free PTE](https://freepte.com/) - ![free] ![core]
 - [wuaze PTE-core](https://ptecore.wuaze.com/) - ![free] ![core]
-- [Duoink PTE](https://duoink.co/) - ![paid] ![academic]
-- [APE Uni](https://www.apeuni.com/) or [APE Chinese Version](https://www.ptexj.com/) - ![paid] ![academic] ![core]
-- [Alpaca Training](https://www.ytaxx.com/) - ![paid] ![academic] ![core]
-- [Firefly Enlightenment](https://www.fireflyau.com/home) ![paid] ![academic]
-- [PTE Magic](https://ptemagic.com/) - ![paid] ![academic] ![core] - Support Vietnamese language display.
+- [多墨 PTE](https://duoink.co/) - ![paid] ![academic]
+- [猩际](https://www.apeuni.com/) 或 [猩际 中文版](https://www.ptexj.com/) - ![paid] ![academic] ![core]
+- [羊驼 PTE](https://www.ytaxx.com/) - ![paid] ![academic] ![core]
+- [萤火虫 PTE](https://www.fireflyau.com/home) ![paid] ![academic]
+- [PTE Magic](https://ptemagic.com/) - ![paid] ![academic] ![core] - 支持越南语显示
 
-## PTE Sub-Scores Analysis
+## PTE 工具
 
-- [PTE Sub-Scores Breakdown Chrome Extension](https://gaohaoyang.github.io/pte-crx-page/) - ![free] ![open-source] ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/hibclclepijigjnfdkmkfhjogfhgicda) ![Chrome Web Store Stars](https://img.shields.io/chrome-web-store/stars/hibclclepijigjnfdkmkfhjogfhgicda) ![core] ![academic] A [Chrome extension](https://chromewebstore.google.com/detail/pte-sub-scores-breakdown/hibclclepijigjnfdkmkfhjogfhgicda) or [Edge add-on](https://microsoftedge.microsoft.com/addons/detail/pte-subscores-breakdown/ldncinbpnblagkpngpnloaekkfekoejk) that allows you to analyze your PTE sub-scores. It works with both PTE Academic and PTE Core.
-- [YYPTECore - CLB Comparison](https://yyptecore.vercel.app/tools/comparison) - ![free] ![open-source] ![core] A tool to compare your PTE Core score with CLB levels, IELTS and CELPIP.
+- [PTE 小分插件 Chrome 扩展](https://gaohaoyang.github.io/pte-crx-page/) - ![free] ![open-source] ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/hibclclepijigjnfdkmkfhjogfhgicda) ![Chrome Web Store Stars](https://img.shields.io/chrome-web-store/stars/hibclclepijigjnfdkmkfhjogfhgicda) ![core] ![academic] 一个 [Chrome 扩展程序](https://chromewebstore.google.com/detail/pte-sub-scores-breakdown/hibclclepijigjnfdkmkfhjogfhgicda) 或 [Edge 插件](https://microsoftedge.microsoft.com/addons/detail/pte-subscores-breakdown/ldncinbpnblagkpngpnloaekkfekoejk)，允许您分析您的 PTE 小分。适用于 PTE Academic 和 PTE Core。
+- [YYPTECore - CLB 比较工具](https://yyptecore.vercel.app/tools/comparison) - ![free] ![open-source] ![core] 一个将您的 PTE Core 分数与 CLB 级别、IELTS 和 CELPIP 进行比较的工具。
 
-<!-- Badge definitions -->
-[free]: https://img.shields.io/badge/Free-green
-[paid]: https://img.shields.io/badge/Paid-ca6f1e
-[open-source]: https://img.shields.io/badge/Open_Source-blue
+<!-- 徽章定义 -->
+
+[free]: https://img.shields.io/badge/免费-green
+[paid]: https://img.shields.io/badge/付费-ca6f1e
+[open-source]: https://img.shields.io/badge/开源-blue
 [core]: https://img.shields.io/badge/PTE_Core-3498db
 [academic]: https://img.shields.io/badge/PTE_Academic-45b39d
-
