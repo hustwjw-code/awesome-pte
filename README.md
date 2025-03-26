@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[English Version](./README.md)
+[English Version](./README-en.md)
 
 关于 PTE（培生英语考试）的精选资源集合。
 
