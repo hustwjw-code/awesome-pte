@@ -15,6 +15,7 @@
 - [YNWAC PTE-CORE](https://ynwac.com/) - ![free] ![core]
 - [Free PTE](https://freepte.com/) - ![free] ![core]
 - [wuaze PTE-core](https://ptecore.wuaze.com/) - ![free] ![core]
+- [PTE Core Free Practice](https://ptecorefree.com/) - ![free] ![core] 涵盖全部 19 种 PTE Core 题型的仿真练习，提交后即时给出练习估分。
 - [多墨 PTE](https://duoink.co/) - ![paid] ![academic]
 - [猩际](https://www.apeuni.com/) 或 [猩际 中文版](https://www.ptexj.com/) - ![paid] ![academic] ![core]
 - [羊驼 PTE](https://www.ytaxx.com/) - ![paid] ![academic] ![core]
@@ -25,6 +26,7 @@
 
 - [PTE 小分插件 Chrome 扩展](https://gaohaoyang.github.io/pte-crx-page/) - ![free] ![open-source] ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/hibclclepijigjnfdkmkfhjogfhgicda) ![Chrome Web Store Stars](https://img.shields.io/chrome-web-store/stars/hibclclepijigjnfdkmkfhjogfhgicda) ![core] ![academic] 一个 [Chrome 扩展程序](https://chromewebstore.google.com/detail/pte-sub-scores-breakdown/hibclclepijigjnfdkmkfhjogfhgicda) 或 [Edge 插件](https://microsoftedge.microsoft.com/addons/detail/pte-subscores-breakdown/ldncinbpnblagkpngpnloaekkfekoejk)，允许您分析您的 PTE 小分。适用于 PTE Academic 和 PTE Core。
 - [YYPTECore - CLB 比较工具](https://yyptecore.vercel.app/tools/comparison) - ![free] ![open-source] ![core] 一个将您的 PTE Core 分数与 CLB 级别、IELTS 和 CELPIP 进行比较的工具。
+- [PTE Core 转 CLB 换算器](https://ptecorefree.com/tools/pte-core-to-clb/) - ![free] ![core] 按单项把 PTE Core 分数换算成 CLB 等级，附 IRCC 官方对照表。
 
 <!-- 徽章定义 -->
 

@@ -15,6 +15,7 @@ A collection of awesome things regarding PTE (Pearson Test of English).
 - [YNWAC PTE-CORE](https://ynwac.com/) - ![free] ![core]
 - [Free PTE](https://freepte.com/) - ![free] ![core]
 - [wuaze PTE-core](https://ptecore.wuaze.com/) - ![free] ![core]
+- [PTE Core Free Practice](https://ptecorefree.com/) - ![free] ![core] Exam-style practice for all 19 PTE Core task types with an instant practice estimate.
 - [Duoink PTE](https://duoink.co/) - ![paid] ![academic]
 - [APE Uni](https://www.apeuni.com/) or [APE Chinese Version](https://www.ptexj.com/) - ![paid] ![academic] ![core]
 - [Alpaca Training](https://www.ytaxx.com/) - ![paid] ![academic] ![core]
@@ -25,6 +26,7 @@ A collection of awesome things regarding PTE (Pearson Test of English).
 
 - [PTE Sub-Scores Breakdown Chrome Extension](https://gaohaoyang.github.io/pte-crx-page/) - ![free] ![open-source] ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/hibclclepijigjnfdkmkfhjogfhgicda) ![Chrome Web Store Stars](https://img.shields.io/chrome-web-store/stars/hibclclepijigjnfdkmkfhjogfhgicda) ![core] ![academic] A [Chrome extension](https://chromewebstore.google.com/detail/pte-sub-scores-breakdown/hibclclepijigjnfdkmkfhjogfhgicda) or [Edge add-on](https://microsoftedge.microsoft.com/addons/detail/pte-subscores-breakdown/ldncinbpnblagkpngpnloaekkfekoejk) that allows you to analyze your PTE sub-scores. It works with both PTE Academic and PTE Core.
 - [YYPTECore - CLB Comparison](https://yyptecore.vercel.app/tools/comparison) - ![free] ![open-source] ![core] A tool to compare your PTE Core score with CLB levels, IELTS and CELPIP.
+- [PTE Core to CLB Converter](https://ptecorefree.com/tools/pte-core-to-clb/) - ![free] ![core] Convert PTE Core scores to CLB levels skill by skill, with the official IRCC table.
 
 <!-- Badge definitions -->
 
