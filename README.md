@@ -25,6 +25,7 @@
 
 - [PTE 小分插件 Chrome 扩展](https://gaohaoyang.github.io/pte-crx-page/) - ![free] ![open-source] ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/hibclclepijigjnfdkmkfhjogfhgicda) ![Chrome Web Store Stars](https://img.shields.io/chrome-web-store/stars/hibclclepijigjnfdkmkfhjogfhgicda) ![core] ![academic] 一个 [Chrome 扩展程序](https://chromewebstore.google.com/detail/pte-sub-scores-breakdown/hibclclepijigjnfdkmkfhjogfhgicda) 或 [Edge 插件](https://microsoftedge.microsoft.com/addons/detail/pte-subscores-breakdown/ldncinbpnblagkpngpnloaekkfekoejk)，允许您分析您的 PTE 小分。适用于 PTE Academic 和 PTE Core。
 - [YYPTECore - CLB 比较工具](https://yyptecore.vercel.app/tools/comparison) - ![free] ![open-source] ![core] 一个将您的 PTE Core 分数与 CLB 级别、IELTS 和 CELPIP 进行比较的工具。
+- [OpenExam Hub CLB/NCLC 换算工具](https://openexamhub.org/tools/clb-converter) - ![free] ![open-source] 一个免费、开源、在浏览器本地运行的 CLB/NCLC 换算工具，使用 IRCC 公布的对照表，适用于 IELTS General Training、CELPIP-General、TEF Canada 和 TCF Canada。它不换算 PTE 分数。分数不会离开浏览器，也无需账号。
 
 <!-- 徽章定义 -->
 
