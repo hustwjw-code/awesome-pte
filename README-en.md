@@ -25,6 +25,7 @@ A collection of awesome things regarding PTE (Pearson Test of English).
 
 - [PTE Sub-Scores Breakdown Chrome Extension](https://gaohaoyang.github.io/pte-crx-page/) - ![free] ![open-source] ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/hibclclepijigjnfdkmkfhjogfhgicda) ![Chrome Web Store Stars](https://img.shields.io/chrome-web-store/stars/hibclclepijigjnfdkmkfhjogfhgicda) ![core] ![academic] A [Chrome extension](https://chromewebstore.google.com/detail/pte-sub-scores-breakdown/hibclclepijigjnfdkmkfhjogfhgicda) or [Edge add-on](https://microsoftedge.microsoft.com/addons/detail/pte-subscores-breakdown/ldncinbpnblagkpngpnloaekkfekoejk) that allows you to analyze your PTE sub-scores. It works with both PTE Academic and PTE Core.
 - [YYPTECore - CLB Comparison](https://yyptecore.vercel.app/tools/comparison) - ![free] ![open-source] ![core] A tool to compare your PTE Core score with CLB levels, IELTS and CELPIP.
+- [OpenExam Hub CLB/NCLC converter](https://openexamhub.org/tools/clb-converter) - ![free] ![open-source] A free, open-source, in-browser CLB/NCLC converter that uses IRCC’s published tables for IELTS General Training, CELPIP-General, TEF Canada and TCF Canada. It does not convert PTE scores. Scores never leave the browser, and no account is required.
 
 <!-- Badge definitions -->
 
